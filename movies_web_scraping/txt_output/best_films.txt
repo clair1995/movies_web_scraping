@@ -1,0 +1,59 @@
+-----------------------------------------
+
+film recenti : 
+|    | titolo                                              | piattaforma   |   audience_score |   critics_score |
+|---:|:----------------------------------------------------|:--------------|-----------------:|----------------:|
+|  0 | Pianoforte                                          | amazon_prime  |              100 |              82 |
+|  1 | Waitress: The Musical                               | amazon_prime  |               97 |              94 |
+|  2 | The Boys in the Boat                                | amazon_prime  |               96 |              56 |
+|  3 | The Windigo                                         | amazon_prime  |               92 |             nan |
+|  4 | Next Goal Wins                                      | amazon_prime  |               84 |              44 |
+|  5 | Dave Chappelle: The Dreamer                         | netflix       |               83 |              20 |
+|  6 | The Marvels                                         | amazon_prime  |               82 |              62 |
+|  7 | Far Haven                                           | amazon_prime  |               80 |             nan |
+|  8 | Saltburn                                            | amazon_prime  |               79 |              71 |
+|  9 | Fugitive Dreams                                     | amazon_prime  |               78 |             100 |
+| 10 | Good Grief                                          | netflix       |               72 |              74 |
+| 11 | He Went That Way                                    | amazon_prime  |               72 |              25 |
+| 12 | Man on the Run                                      | netflix       |               68 |              93 |
+| 13 | Dream Scenario                                      | amazon_prime  |               68 |              91 |
+| 14 | Justice League: Crisis on Infinite Earths, Part One | amazon_prime  |               68 |             nan |
+| 15 | Bitconned                                           | netflix       |               67 |             100 |
+| 16 | Maestro                                             | netflix       |               61 |              80 |
+| 17 | Napoleon                                            | amazon_prime  |               59 |              58 |
+| 18 | Pete Davidson: Turbo Fonzarelli                     | netflix       |               59 |             nan |
+| 19 | Rebel Moon: Part One - A Child of Fire              | netflix       |               58 |              23 |
+| 20 | Eileen                                              | amazon_prime  |               53 |              84 |
+| 21 | The Painter                                         | amazon_prime  |               52 |               0 |
+| 22 | Hell Camp: Teen Nightmare                           | netflix       |               48 |              80 |
+| 23 | Role Play                                           | amazon_prime  |               47 |              22 |
+| 24 | The Night They Came Home                            | amazon_prime  |               44 |             nan |
+| 25 | The Bricklayer                                      | amazon_prime  |               43 |              53 |
+| 26 | Lift                                                | netflix       |               32 |              31 |
+
+top film per audience e critic score: 
+ |    | titolo                                    | piattaforma   |   audience_score |   critics_score |
+|---:|:------------------------------------------|:--------------|-----------------:|----------------:|
+|  0 | Pianoforte                                | amazon_prime  |              100 |              82 |
+|  1 | Top Gun: Maverick                         | amazon_prime  |               99 |              96 |
+|  2 | Sound of Freedom                          | amazon_prime  |               99 |              57 |
+|  3 | Shang-Chi and the Legend of the Ten Rings | disney_plus   |               98 |              92 |
+|  4 | Cruella                                   | disney_plus   |               97 |              75 |
+|  5 | Togo                                      | disney_plus   |               95 |              93 |
+|  6 | They Cloned Tyrone                        | netflix       |              100 |              95 |
+|  7 | The Woman King                            | netflix       |               99 |              94 |
+|  8 | A Man Called Otto                         | netflix       |               97 |              70 |
+
+top film per score medio: 
+|    | titolo                                | piattaforma   |   audience_score |   critics_score |
+|---:|:--------------------------------------|:--------------|-----------------:|----------------:|
+|  0 | Top Gun: Maverick                     | amazon_prime  |               99 |              96 |
+|  1 | Are You There God? It's Me, Margaret. | amazon_prime  |               95 |              99 |
+|  2 | L.A. Confidential                     | amazon_prime  |               94 |              99 |
+|  3 | The Princess Bride                    | disney_plus   |               94 |              98 |
+|  4 | Toy Story                             | disney_plus   |               92 |             100 |
+|  5 | Toy Story 4                           | disney_plus   |               94 |              97 |
+|  6 | They Cloned Tyrone                    | netflix       |              100 |              95 |
+|  7 | L.A. Confidential                     | netflix       |               94 |              99 |
+|  8 | The Woman King                        | netflix       |               99 |              94 |
+-----------------------------------------
