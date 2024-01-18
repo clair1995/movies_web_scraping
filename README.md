@@ -10,6 +10,7 @@ The script downloads the movies data from the famous website 'Rotten Tomatoes'. 
 - Netflix
 - Disney Plus
 - Amazone Prime Video
+
 The (positive) side effect of this algorithm is to finally find an answer to the question: "Which film do I whatch tonight?" (or at least simplify the choice).
 
 ## Data
